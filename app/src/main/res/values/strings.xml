@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Geo Guesser</string>
+    <string name="Pista">¡Pista!</string>
+
+    <string name="hint">Pista</string>
+    <string name="correcto">¡Correcto!</string>
+    <string name="incorrecto">¡Incorrecto!</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="respuesta">Respuesta correcta:</string>
+
+    <string name="score">Puntuación</string>
+    <string name="retry">¿Volver a intentarlo?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+</resources>
